@@ -1,0 +1,35 @@
+# Ignore the Python Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore your heavy data folders and raw text files
+historical_data_2004/
+*.txt
+*.csv
+*.db
+historical_data_2005/
+*.txt
+*.csv
+*.db
+
+historical_data_2006/
+*.txt
+*.csv
+*.db
+historical_data_2007/
+*.txt
+*.csv
+*.db
+historical_data_2008/
+*.txt
+*.csv
+*.db
+
+
+# Ignore operating system system files
+Thumbs.db
+.DS_Store
