@@ -6,6 +6,11 @@ ENV/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+DATA/
+*.csv
+*.txt
+*.db
+
 # Ignore your heavy data folders and raw text files
 historical_data_2004/
 *.txt
