@@ -10,6 +10,7 @@ DATA/
 *.csv
 *.txt
 *.db
+*.parquet
 
 # Ignore your heavy data folders and raw text files
 historical_data_2004/
